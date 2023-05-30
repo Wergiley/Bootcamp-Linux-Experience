@@ -3,6 +3,7 @@
 - Cursos: 16
 - Live: 1
 - Desafios de projeto: 4
+- Carga Horária: 42h
 - Data Inicial: 15/02/23
 - Concluído em: 30/05/23
 - <a href="link">Certificado</a>
